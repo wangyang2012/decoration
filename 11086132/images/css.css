@@ -1,0 +1,92 @@
+HTML {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BACKGROUND-COLOR: #4d69bd
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BACKGROUND-COLOR: #4d69bd
+}
+.zi {
+	FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+.rightline {
+	BORDER-RIGHT: #cccccc 1px solid
+}
+.upline {
+	FONT-SIZE: 12px; LINE-HEIGHT: 25px; BORDER-BOTTOM: #dddddd 1px solid
+}
+.baizi {
+	COLOR: #ffffff
+}
+.hong {
+	COLOR: #ff0000
+}
+.hong A:hover {
+	COLOR: #ff0000
+}
+#topsearch FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TABLE {
+	FONT-SIZE: 12px; COLOR: #5c5c5c; 
+}
+
+A:visited {
+	COLOR: #5c5c5c; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #5c5c5c; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #6ab5ff; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #5c5c5c; TEXT-DECORATION: none
+}
+A.linknav1:link {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.linknav1:visited {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.linknav1:active {
+	FONT-SIZE: 12px; COLOR: #ff0000; TEXT-DECORATION: none
+}
+A.linknav1:hover {
+	FONT-SIZE: 12px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+
+.huang {
+	COLOR: #ff9933
+}
+.lan {
+	COLOR: #152d75
+}
+.he {
+	COLOR: #996600; TEXT-DECORATION: none
+}
+.he A:hover {
+	COLOR: #996600
+}
+.he A:active {
+	COLOR: #996600
+}
+.he A:link {
+	COLOR: #996600
+}
+.he A:visited {
+	COLOR: #996600
+}
+
+
+.huikuang {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.bjkuang {
+	BORDER-RIGHT: #88bbcc 1px solid; BORDER-TOP: #88bbcc 1px solid; BORDER-LEFT: #88bbcc 1px solid; BORDER-BOTTOM: #88bbcc 1px solid
+}
+
+
+
+.touzilm A:hover {
+	COLOR: #18768a
+}
+
